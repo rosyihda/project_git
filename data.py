@@ -5,4 +5,5 @@ blog_posts = [{'Photos': 3, 'Likes': 21, 'Comments': 2},
               {'Photos': 8, 'Comments': 1, 'Shares': 1}, 
               {'Photos': 3, 'Likes': 19, 'Comments': 3}]
 
-print(blog_posts['photos'])
+print(blog_posts['Photos'])
+print(blog_posts['Likes'])
